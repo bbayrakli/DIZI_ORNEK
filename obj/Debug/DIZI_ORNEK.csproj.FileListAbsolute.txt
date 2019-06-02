@@ -1,0 +1,10 @@
+C:\Users\bbayrakli\Desktop\My_Repo\DIZI_ORNEK\bin\Debug\DIZI_ORNEK.exe.config
+C:\Users\bbayrakli\Desktop\My_Repo\DIZI_ORNEK\bin\Debug\DIZI_ORNEK.exe
+C:\Users\bbayrakli\Desktop\My_Repo\DIZI_ORNEK\bin\Debug\DIZI_ORNEK.pdb
+C:\Users\bbayrakli\Desktop\My_Repo\DIZI_ORNEK\obj\Debug\DIZI_ORNEK.csprojAssemblyReference.cache
+C:\Users\bbayrakli\Desktop\My_Repo\DIZI_ORNEK\obj\Debug\DIZI_ORNEK.Form1.resources
+C:\Users\bbayrakli\Desktop\My_Repo\DIZI_ORNEK\obj\Debug\DIZI_ORNEK.Properties.Resources.resources
+C:\Users\bbayrakli\Desktop\My_Repo\DIZI_ORNEK\obj\Debug\DIZI_ORNEK.csproj.GenerateResource.cache
+C:\Users\bbayrakli\Desktop\My_Repo\DIZI_ORNEK\obj\Debug\DIZI_ORNEK.csproj.CoreCompileInputs.cache
+C:\Users\bbayrakli\Desktop\My_Repo\DIZI_ORNEK\obj\Debug\DIZI_ORNEK.exe
+C:\Users\bbayrakli\Desktop\My_Repo\DIZI_ORNEK\obj\Debug\DIZI_ORNEK.pdb
